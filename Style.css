@@ -147,7 +147,11 @@ ul li a {
 ul li a:hover {
   background: var(--surface-color-hover);
   border: 1.5px solid var(--text-color);
+  box-shadow: 0 5px 15px rgba(145, 92, 182, .4);
+  
 }
+
+
 
 /*Social links */
 
@@ -158,6 +162,9 @@ ul li a:hover {
 
   padding: 24px 0;
   font-size: 24px;
+ 
+ 
+  
 }
 
 #social-links a {
